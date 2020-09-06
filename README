@@ -2,6 +2,8 @@
 
 ## Update in Dev before a migrate
 
+### Update as an EC2 user to check permissions after migrate
+
 You have successfully created an Atlassian Plugin!
 
 Here are the SDK commands you'll use immediately:
